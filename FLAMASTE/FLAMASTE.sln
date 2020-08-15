@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FLAMASTE", "FLAMASTE\FLAMASTE.pyproj", "{76FE083E-1351-4681-BBF3-5F94BF9FB392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76FE083E-1351-4681-BBF3-5F94BF9FB392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FE083E-1351-4681-BBF3-5F94BF9FB392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6151046-B490-4C10-9197-2D728A29FB5B}
+	EndGlobalSection
+EndGlobal

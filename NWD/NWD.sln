@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NWD", "NWD\NWD.pyproj", "{98297E74-2738-4F5C-BDA4-BBA0FAD026F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98297E74-2738-4F5C-BDA4-BBA0FAD026F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98297E74-2738-4F5C-BDA4-BBA0FAD026F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40079A71-07B6-419E-8240-BD579B28D18D}
+	EndGlobalSection
+EndGlobal
